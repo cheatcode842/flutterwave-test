@@ -1,0 +1,124 @@
+/* 
+
+
+
+
+*/
+
+.content {
+    max-width: 950px;
+    margin: auto;
+}
+ body {
+     background-color: white;
+ }
+ 
+ button {
+    display: inline-block;
+    background-color: black;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+
+#header-left{
+    float: left;
+    width: 5px;
+    height: 20px;
+}
+#header-right{
+    float: right;
+    width: 100px;
+    height: 50px;
+}
+#middlebox{
+    float: left;
+    width: 5%;
+    height: 20px;
+}
+#container-1{
+    width: 970px;
+    height: 350px;
+    background: white;
+    border-radius: 5px;
+    
+}
+#container-left{
+    float: left;
+     width: 390px;
+     height: 300px;
+     padding: 5px;
+    
+ }
+#container-right{
+   float: right;
+    width: 570px;
+    height: 300px;
+    text-align: left;
+    
+}
+#grid{
+    float: left;
+    width: 290px;
+    height: 400px;
+    border-radius: 5px;
+    margin-top: 50px;
+    text-align: left;
+    background: white;
+    padding: 10px;
+}
+#grid-centre{
+    float: left;
+    width: 290px;
+    height: 400px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 10px;
+    text-align: left;
+    background: white;
+    padding: 10px;
+}
+#grid-right{
+    float: left;
+    width: 290px;
+    height: 400px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 10px;
+    text-align: left;
+    background: white;
+    padding: 10px;
+}
+#footer-container{
+    float: left;
+    width: 950px;
+    height: 300px;
+    border-radius: 5px;
+    margin-top: 100px;
+    text-align: center;
+    background: white;
+}
+#page-container{
+    float:left;
+    width: 950px;
+    height: 500px;
+    background-color: white;
+    margin-left: 20px;
+    padding-left: 10px;
+    border-radius: 5px;
+    
+}
